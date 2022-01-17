@@ -1,0 +1,15 @@
+{
+  "name": "evalutaion-2",
+  "version": "1.0.0",
+  "description": "Assignment made for the evaluation purpose",
+  "main": "server.js",
+  "scripts": {
+    "test": "nodemon server"
+  },
+  "author": "Saurabh Verma",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.2",
+    "mongoose": "^6.1.6"
+  }
+}
